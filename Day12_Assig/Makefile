@@ -1,5 +1,5 @@
 
-TARGET=Assi11_3
+TARGET=assi2_server
 
 CSRCS= $(TARGET).c
 CSRCS+= 
